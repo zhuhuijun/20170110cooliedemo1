@@ -1,0 +1,26 @@
+{
+  "name": "coolie01",
+  "version": "1.0.0",
+  "description": "coolie",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "author": "zhuhj",
+  "license": "MIT",
+  "dependencies": {
+    "coolie.js": "^2.1.6"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhuhuijun/20170110cooliedemo1.git"
+  },
+  "keywords": [
+    "coolie"
+  ],
+  "bugs": {
+    "url": "https://github.com/zhuhuijun/20170110cooliedemo1/issues"
+  },
+  "homepage": "https://github.com/zhuhuijun/20170110cooliedemo1"
+}
