@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "coolie",
   "main": "index.js",
-  "scripts": {
-    "test": "gulp"
+  "scripts":{
+    "release": "coolie build"
   },
   "author": "zhuhj",
   "license": "MIT",
